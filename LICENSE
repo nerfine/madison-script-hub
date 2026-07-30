@@ -1,0 +1,55 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+Version 1.0
+
+Copyright (c) 2026 nerfine. All Rights Reserved.
+
+IMPORTANT: READ THIS LICENSE AGREEMENT CAREFULLY BEFORE ACCESSING, DOWNLOADING, 
+OR USING THE SOFTWARE ACCOMPANYING THIS LICENSE.
+
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this License, the Author grants you a personal, 
+non-exclusive, non-transferable, revocable license to access and execute the Software 
+solely for its intended, end-user operational purposes through official channels authorized 
+by the Author.
+
+2. RESTRICTIONS
+You are strictly prohibited from performing, attempting, or facilitating any of the 
+following actions without express prior written consent from the Author:
+
+   a. REDISTRIBUTION & RE-HOSTING: You may not host, mirror, re-upload, sub-license, 
+      sell, rent, lease, or otherwise distribute the Software (or any portion, derivative, 
+      or obfuscated version thereof) on any website, repository, file-hosting platform, 
+      or content delivery network.
+      
+   b. MONETIZATION & LINK WRAPPING: You are strictly forbidden from placing access to 
+      this Software, its repository links, or its loader scripts behind third-party 
+      monetization schemes, including but not limited to paywalls, link-shorteners 
+      with advertisements (e.g., Linkvertise, LootLabs, Work.ink), referral links, 
+      or unauthorized key-generation systems.
+      
+   c. KEY SYSTEM BYPASS & TAMPERING: You may not modify, patch, reverse engineer, 
+      decompile, hook, crack, or bypass any authentication mechanisms, key systems, 
+      Hardware ID (HWID) checks, or server-side protections integrated into the Software.
+      
+   d. DERIVATIVE WORKS: You may not modify the Software to create derivative works, 
+      script hubs, or standalone variants for public distribution or commercial gain.
+
+3. INTELLECTUAL PROPERTY
+The Software is protected by international copyright laws and treaty provisions. The Author 
+retains all right, title, and interest in and to the Software, including all copyrights, 
+patents, trade secrets, trademarks, and other intellectual property rights. No rights are 
+granted to you except as expressly set forth in Section 1.
+
+4. ENFORCEMENT & TERMINATION
+Any violation of this Agreement automatically terminates your license to use the Software 
+and will result in immediate enforcement actions, including:
+   - Revocation of API/Server access and permanent HWID/IP blacklisting.
+   - Digital Millennium Copyright Act (DMCA) takedown notices submitted to third-party 
+     hosts, paste sites, link-shorteners, and domain registrars hosting unauthorized copies.
+   - Pursuit of legal remedies where applicable.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
